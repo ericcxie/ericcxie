@@ -14,6 +14,6 @@ I'm a second year **Computer Engineering** student at the **University of Waterl
 
 ## 📫 Get in touch!
 
-Email: pexie@uwaterloo.ca
-Linkedin: https://www.linkedin.com/in/ericcxie/
+Email: pexie@uwaterloo.ca \
+Linkedin: https://www.linkedin.com/in/ericcxie/ \
 Personal Website: https://ericxie.ca/
