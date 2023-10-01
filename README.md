@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=F7F7F7&width=435&lines=Hello!+I'm+Eric!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=F7F7F7&vCenter=true&width=430&height=25&lines=Hello!+I'm+Eric!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 I'm a second year **Computer Engineering** student at the **University of Waterloo**, currently seeking **Spring 2024** Software Engineering internship opportunities.
 
