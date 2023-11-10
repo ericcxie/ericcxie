@@ -9,9 +9,9 @@ I'm a second year **Computer Engineering** student at the **University of Waterl
 
 ## ⚙️ Technologies I've been working with recently...
 
-Languages: `Python`, `Javascript/Typescript`, `C/C++`, `SQL` \
-Frameworks/Libraries: `React.js`, `Flask`, `Redux`, `Node.js`, `Express.js`, `Tailwind CSS` \
-Developer Tools: `PostgreSQL`, `AWS`, `MongoDB`, `Firebase`, `SQLite`, `Docker`, `Git`
+Languages: `Python` `Javascript/Typescript` `C/C++` `SQL` \
+Frameworks/Libraries: `React.js` `Flask` `Redux` `Node.js` `Express.js` `Tailwind CSS` \
+Developer Tools: `PostgreSQL` `AWS` `MongoDB` `Firebase` `SQLite` `Docker` `Git`
 
 ---
 
