@@ -13,6 +13,10 @@ Languages: `Python` `Javascript/Typescript` `C/C++` `SQL` \
 Frameworks/Libraries: `React.js` `Flask` `Redux` `Node.js` `Express.js` `Tailwind CSS` \
 Developer Tools: `PostgreSQL` `AWS` `MongoDB` `Firebase` `SQLite` `Docker` `Git`
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericcxie&layout=compact&hide=procfile&theme=dark#gh-dark-mode-only)](https://github.com/ericcxie/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericcxie&layout=compact&hide=procfile&theme=default#gh-light-mode-only)](https://github.com/ericcxie/github-readme-stats#gh-light-mode-only)
+
+
 ---
 
 ## 📫 Get in touch!
