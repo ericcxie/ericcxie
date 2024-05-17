@@ -6,6 +6,7 @@ I'm a second year **Computer Engineering** student at the **University of Waterl
 
 Currently...
 - Software Developer Intern @ [Lawbrokr](https://www.lawbrokr.com/) | AI Ad Manager
+- Frontend Developer @ [Hack the North](https://hackthenorth.com/) | Organizer
 
 Previously...
 - Software Engineer Intern @ [BMO Financial Group](https://www.bmo.com/) | Retail Lending on the Digital Core AI Team
