@@ -5,7 +5,7 @@ I'm a second year **Computer Engineering** student at the **University of Waterl
 **2025** SWE internship opportunities 🌱
 
 Currently...
-- Software Developer Intern @ [Lawbrokr](https://www.lawbrokr.com/) | AI Ad Manager
+- Software Developer Intern @ [Lawbrokr](https://www.lawbrokr.com/) | Ad Platform
 - Frontend Developer @ [Hack the North](https://hackthenorth.com/) | Organizer
 
 Previously...
