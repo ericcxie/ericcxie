@@ -14,8 +14,8 @@ Previously...
 
 ## ⚙️ Technologies I've been working with recently...
 
-Languages: `Python` `Javascript/Typescript` `C/C++` `SQL` \
-Frameworks/Libraries: `React.js` `Flask` `Redux` `Node.js` `Express.js` `Tailwind CSS` \
+Languages: `Python` `Javascript/Typescript` `C/C++` `Ruby` `SQL` \
+Frameworks/Libraries: `React.js` `Flask` `Redux` `Ruby on Rails` `Node.js` `Express.js` `Tailwind CSS` \
 Developer Tools: `PostgreSQL` `AWS` `MongoDB` `Firebase` `SQLite` `Docker` `Git`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericcxie&layout=compact&hide=procfile&theme=dark#gh-dark-mode-only)](https://github.com/ericcxie/github-readme-stats#gh-dark-mode-only)
