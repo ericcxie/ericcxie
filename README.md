@@ -5,10 +5,10 @@ I'm a second year **Computer Engineering** student at the **University of Waterl
 **2025** SWE internship opportunities 🌱
 
 Currently...
-- Software Developer Intern @ [Lawbrokr](https://www.lawbrokr.com/) | Ad Platform
 - Frontend Developer @ [Hack the North](https://hackthenorth.com/) | Organizer
 
 Previously...
+- Software Developer Intern @ [Lawbrokr](https://www.lawbrokr.com/) | Ad Platform
 - Software Engineer Intern @ [BMO Financial Group](https://www.bmo.com/) | Retail Lending on the Digital Core AI Team
 - Software Developer Intern @ [Brookfield Annuity](https://www.brookfieldannuity.com/) | Pension Risk Transfer (PRT) on the Business Transformation Team
 
