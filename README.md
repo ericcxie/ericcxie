@@ -5,7 +5,7 @@ I'm a third year **Computer Engineering** student at the **University of Waterlo
 **2025** SWE internship opportunities 🌱
 
 Currently...
-- Software Engineer Intern @ [Shopify](https://www.shopify.com/) | Growth Team
+- Software Engineer Intern @ [Shopify](https://www.shopify.com/) | Creative Team
 
 Previously...
 - Frontend Developer @ [Hack the North](https://hackthenorth.com/) | Organizer
