@@ -10,8 +10,8 @@ Currently...
 Previously...
 - Frontend Developer @ [Hack the North](https://hackthenorth.com/) | Organizer
 - Software Developer Intern @ [Lawbrokr](https://www.lawbrokr.com/) | Ad Platform
-- Software Engineer Intern @ [BMO Financial Group](https://www.bmo.com/) | Retail Lending on the Digital Core AI Team
-- Software Developer Intern @ [Brookfield Annuity](https://www.brookfieldannuity.com/) | Pension Risk Transfer (PRT) on the Business Transformation Team
+- Software Engineer Intern @ [BMO Financial Group](https://www.bmo.com/) | Digital Core AI
+- Software Developer Intern @ [Brookfield Annuity](https://www.brookfieldannuity.com/) | Pension Risk Transfer (PRT)
 
 ## ⚙️ Technologies I've been working with recently...
 
