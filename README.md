@@ -4,6 +4,9 @@
 I'm a third year **Computer Engineering** student at the **University of Waterloo**, currently seeking \
 **S26/F26** SWE internship opportunities 🌱
 
+Currently...
+- Software Engineer Intern @ [Gem](https://www.gem.com/) | ATS Team
+
 Previously...
 - Backend Developer @ [Wat Street](https://www.watstreet.com/) | Ledger Instances
 - Software Engineer Intern @ [Shopify](https://www.shopify.com/) | Creative Team
@@ -17,10 +20,6 @@ Previously...
 Languages: `Python` `Javascript/Typescript` `C/C++` `Ruby` `SQL` \
 Frameworks/Libraries: `React.js` `Flask` `Redux` `Ruby on Rails` `Node.js` `Express.js` `Tailwind CSS` \
 Developer Tools: `PostgreSQL` `AWS` `MongoDB` `Firebase` `SQLite` `Docker` `Git`
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericcxie&layout=compact&hide=procfile&theme=dark#gh-dark-mode-only)](https://github.com/ericcxie/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericcxie&layout=compact&hide=procfile&theme=default#gh-light-mode-only)](https://github.com/ericcxie/github-readme-stats#gh-light-mode-only)
-
 
 ---
 
