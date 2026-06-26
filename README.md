@@ -4,9 +4,10 @@
 I'm a third year **Computer Engineering** student at the **University of Waterloo**
 
 Currently...
-- Software Engineer Intern @ [Gem](https://www.gem.com/) | ATS Team
+- Software Engineer Intern @ [Amazon](https://www.aboutamazon.com/) | Tax Team
 
 Previously...
+- Software Engineer Intern @ [Gem](https://www.gem.com/) | ATS Team
 - Backend Developer @ [Wat Street](https://www.watstreet.com/) | Ledger Instances
 - Software Engineer Intern @ [Shopify](https://www.shopify.com/) | Creative Team
 - Frontend Developer @ [Hack the North](https://hackthenorth.com/) | Organizer
