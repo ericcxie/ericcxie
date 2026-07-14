@@ -27,4 +27,4 @@ Developer Tools: `PostgreSQL` `AWS` `MongoDB` `Firebase` `SQLite` `Docker` `Git`
 
 - Email: pexie@uwaterloo.ca 
 - Linkedin: https://www.linkedin.com/in/ericcxie/ 
-- Personal Website: https://ericxie.ca/
+- Personal Website: https://ericxie.com/
