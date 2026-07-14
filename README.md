@@ -4,7 +4,7 @@
 I'm a fourth year **Computer Engineering** student at the **University of Waterloo**
 
 Currently...
-- Software Engineer Intern @ [Amazon](https://www.aboutamazon.com/) | Tax Team
+- Software Engineer Intern @ [Amazon](https://www.aboutamazon.com/) | Tax Platform
 
 Previously...
 - Software Engineer Intern @ [Gem](https://www.gem.com/) | ATS Team
